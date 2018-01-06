@@ -6,7 +6,7 @@ excerpt: 'This paper is selected as Oral Presentation in NIPS 2016.'
 date: 2016-05-01
 venue: 'Neural Information Processing Systems(NIPS)'
 paperurl: 'https://arxiv.org/abs/1608.07630'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'Ji Xu, Daniel Hsu, Arian Maleki. &quot;Global analysis of Expectation Maximization for mixtures of two Gaussians.&quot; <i>Neural Information Processing Systems(NIPS)</i>. 2016.'
 ---
 'This paper is selected as Oral Presentation in NIPS 2016.'
 
