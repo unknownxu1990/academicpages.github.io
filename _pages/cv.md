@@ -11,30 +11,20 @@ redirect_from:
 
 Education
 ======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
+* B.S. in Mathematics and Economics (double degree), Peiking University, Jul. 2013
+* M.A. in Statistics, Columbia University, Dec. 2014
+* Ph.D in Computer Science, Columbia University, 2020 (expected)
 
-Work experience
+Honors and Awards:
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Kathryn and Shelby Cullom Davis International Fellowship Jan. 2015
+* Silver Medalist in National Undergraduate Mathematical Contest Nov. 2011
+* Silver Medalist in Chinese Mathematical Olympiad Winter Camp Jan. 2009
+* Gold Medalist in National Chinese Mathematical Olympiad in Senior Nov. 2008
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming skill: R
 
 Publications
 ======
@@ -48,12 +38,3 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
