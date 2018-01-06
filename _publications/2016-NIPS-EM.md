@@ -12,4 +12,3 @@ citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 
 
 [Download paper here](https://arxiv.org/abs/1608.07630)
 
-#Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
