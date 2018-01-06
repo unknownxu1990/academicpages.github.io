@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ji Xu"
+title                    : "Ji"
 title_separator          : "-"
 name                     : &name "Ji Xu"
 description              : &description "PhD in Computer Science, Columbia University "
