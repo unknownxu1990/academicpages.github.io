@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-I am a third year Ph.D. student in Computer Science Department of Columbia University. My two advisors are Prof. Arian Maleki and Prof. Daniel Hsu.  
+I am a third year Ph.D. student in Computer Science Department of Columbia University. My two advisors are Prof. Arian Maleki (Statistics Department) and Prof. Daniel Hsu (Computer Science Department). My research interests are high dimensional statistics and machine learning. Currently, I am also interested in interactive learning/clustering and neurual network. 
 
 
