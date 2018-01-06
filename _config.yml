@@ -38,7 +38,7 @@ staticman:
   path                   : "_data/comments/{options.slug}"
   requiredFields         : ['name', 'email', 'message']
   transforms:
-    email                : "md5"
+    email                : jx2193@columbia.edu "md5"
   generatedFields:
     date:
       type               : "date"
@@ -80,7 +80,7 @@ analytics:
 author:
   name             : "Ji Xu"
   avatar           : "DSC_5682.jpg"
-  bio              : "PhD in Computer Science, Columbia University"
+  bio              : "Ph.D. student in Computer Science, Columbia University"
   location         : "New York, NY"
   employer         :
   googlescholar    : #"http://yourfullgooglescholarurl.com"
