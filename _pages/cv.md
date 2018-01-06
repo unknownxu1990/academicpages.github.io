@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.S. in Mathematics and Economics (double degree), Peiking University, Jul. 2013
+* B.S. in Mathematics and Economics (double degree), Peking University, Jul. 2013
 * M.A. in Statistics, Columbia University, Dec. 2014
 * Ph.D. in Computer Science, Columbia University, 2020 (expected)
 
