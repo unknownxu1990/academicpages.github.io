@@ -84,7 +84,8 @@ author:
   location         : "New York, NY"
   employer         :
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : jx2193@colubmai.edu "jx2193@columbia.edu"
+  email            : "jx2193@columbia.edu"
+  emailaddress     : "jx2193@columbia.edu"
   uri              :
   bitbucket        :
   codepen          :
