@@ -17,10 +17,10 @@ Education
 
 Honors and Awards:
 ======
-* Kathryn and Shelby Cullom Davis International Fellowship Jan. 2015
-* Silver Medalist in National Undergraduate Mathematical Contest Nov. 2011
-* Silver Medalist in Chinese Mathematical Olympiad Winter Camp Jan. 2009
-* Gold Medalist in National Chinese Mathematical Olympiad in Senior Nov. 2008
+* Kathryn and Shelby Cullom Davis International Fellowship,  Jan. 2015
+* Silver Medalist in National Undergraduate Mathematical Contest,  Nov. 2011
+* Silver Medalist in Chinese Mathematical Olympiad Winter Camp,  Jan. 2009
+* Gold Medalist in National Chinese Mathematical Olympiad in Senior,  Nov. 2008
   
 Skills
 ======
