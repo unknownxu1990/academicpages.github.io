@@ -1,5 +1,5 @@
 ---
-title: "Optimization-based AMP for Phase Retrieval: The Impact of Initialization and $\ell$-2-regularization"
+title: "Optimization-based AMP for Phase Retrieval: The Impact of Initialization and $\ ell_2$-regularization"
 collection: publications
 permalink: 
 excerpt: 'Submitted to Arxiv and IEEE TIT'
