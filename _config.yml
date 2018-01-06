@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ji"
+title                    : "Ji Xu"
 title_separator          : "-"
-name                     : &name "Ji"
+name                     : &name "Ji Xu"
 description              : &description "PhD in Computer Science, Columbia University "
 url                      : https://unknownxu1990.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -84,7 +84,7 @@ author:
   location         : "New York, NY"
   employer         :
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            :"jx2193@columbia.edu"
+  email            : "jx2193@columbia.edu"
   uri              :
   bitbucket        :
   codepen          :
