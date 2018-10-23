@@ -6,6 +6,6 @@ excerpt: 'This paper is submitted to arxiv.'
 date: 2018-01-01
 venue: 'arxiv'
 paperurl: 'https://arxiv.org/abs/1801.01170'
-citation: 'Junjie Ma, Ji Xu, Arian Maleki. &quot;Optimization-based AMP for Phase Retrieval: The Impact of Initialization and $\ell_2$-regularization&quot; <i>arxiv e-print</i>. 2018.'
+citation: 'Junjie Ma, Ji Xu, Arian Maleki. &quot;Optimization-based AMP for Phase Retrieval: The Impact of Initialization and $\ell_2$-regularization&quot; <i> In submission to IEEE Transactions on Information Theory </i>, 2018.'
 ---
 [Download paper here](http://academicpages.github.io/files/paper3.pdf)
