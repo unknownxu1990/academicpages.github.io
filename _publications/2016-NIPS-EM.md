@@ -4,9 +4,9 @@ collection: publications
 permalink: /publication/2016-NIPS-EM
 excerpt: 'This paper is selected as Oral Presentation in NIPS 2016.'
 date: 2016-05-01
-venue: 'Neural Information Processing Systems(NIPS)'
+venue: 'Neural Information Processing Systems (NIPS)'
 paperurl: 'https://arxiv.org/abs/1608.07630'
-citation: 'Ji Xu, Daniel Hsu, Arian Maleki. &quot;Global analysis of Expectation Maximization for mixtures of two Gaussians.&quot; <i>Neural Information Processing Systems(NIPS)</i>. 2016.'
+citation: 'Ji Xu, Daniel Hsu, Arian Maleki. &quot;Global analysis of Expectation Maximization for mixtures of two Gaussians.&quot; <i>Neural Information Processing Systems (NIPS)</i>. 2016.'
 ---
 'This paper is selected as Oral Presentation in NIPS 2016.'
 
