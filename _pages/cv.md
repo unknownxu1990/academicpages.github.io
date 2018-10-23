@@ -11,11 +11,11 @@ redirect_from:
 
 Education
 ======
-* B.S. in Mathematics and Economics (double degree), Peking University, Jul. 2013
+* B.S. in Mathematics and minor in Economics, Peking University, Jul. 2013
 * M.A. in Statistics, Columbia University, Dec. 2014
 * Ph.D. in Computer Science, Columbia University, 2020 (expected)
 * Relevent courseworks:
-Topics in interactive learning, Topics in information theory, Natural Language Processing, Advanced Machine Learning, Advanced Algorithm, Analysis of Algorithms I-II, Introduction to Database, Topics in Advanced Probabilities, Graphical Model, Probability Theory I-II, Statistical Inference Theory I-III, Linear Regression Model, Statistical Methods in Finance, Machine Learning, Nonparametric Statistics, Advanced Data Analysis.
+Topics in interactive learning, Natural Language Processing, Advanced Machine Learning, Advanced Algorithm, Analysis of Algorithms I-II, Topics in Advanced Probabilities, Graphical Model, Probability Theory I-II, Statistical Inference Theory I-III, Linear Regression Model, Machine Learning, Nonparametric Statistics.
 
 Honors and Awards:
 ======
