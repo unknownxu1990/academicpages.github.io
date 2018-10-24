@@ -2,6 +2,7 @@
 title: "Approximate message passing for amplitude-based optimization."
 collection: publications
 permalink: /publication/2018-ICML-PR
+category: published
 excerpt: '*Equal contribution. This paper is selected as Long Talk in ICML 2018.'
 date: 2018-07-11
 venue: 'International Conference on Machine Learning (ICML)'
