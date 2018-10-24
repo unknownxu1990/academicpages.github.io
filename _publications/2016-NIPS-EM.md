@@ -2,6 +2,7 @@
 title: "Global analysis of Expectation Maximization for mixtures of two Gaussians"
 collection: publications
 permalink: /publication/2016-NIPS-EM
+category: published
 excerpt: 'This paper is selected as Oral Presentation in NIPS 2016.'
 date: 2016-05-01
 venue: 'Neural Information Processing Systems (NIPS)'
