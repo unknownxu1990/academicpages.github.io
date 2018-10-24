@@ -2,6 +2,7 @@
 title: "Benefits of over-parameterization with EM"
 collection: publications
 permalink: /publication/2018-NIPS-EM
+category: published
 excerpt: 'To appear in NIPS 2018.'
 date: 2018-12-03
 venue: 'Neural Information Processing Systems(NIPS)'
