@@ -11,4 +11,4 @@ citation: 'Junjie Ma*, Ji Xu*, Arian Maleki. &quot;Approximate message passing f
 ---
 '*Equal contribution. This paper is selected as Long Talk in ICML 2018.'
 
-[Download paper here](https://arxiv.org/abs/1806.03276)
+[Download paper here](https://arxiv.org/pdf/1806.03276.pdf)
