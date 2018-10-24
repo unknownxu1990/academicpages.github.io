@@ -1,16 +1,18 @@
 ---
 title: "Risk estimation of leave-one-out cross validation (LO) in high dimension regime via approximate message passing (AMP)."
 collection: publications
-permalink: /publication/2018-11-01-LOOCV
+permalink: /publication/2018-LOOCV
 <!--excerpt: 'This paper is in submission to Ananals of Statistics.'-->
 date: 2018-11-01
 venue: 'In submission'
 paperurl: 
 citation_in_cv: 'Ji Xu, Arian Maleki, Kamiar Rahnama Rad, Daniel Hsu. &quot;Risk estimation of leave-one-out cross validation
-(LO) in high dimension regime via approximate message passing (AMP).&quot; <i> in preparation </i>. 2018.'
+(LO) in high dimension regime via approximate message passing (AMP).&quot; <i> In submission to Ananals of Statistics </i>, 2018.'
 citation: 'Ji Xu, Arian Maleki, Kamiar Rahnama Rad, Daniel Hsu. &quot;Risk estimation of leave-one-out cross validation
 (LO) in high dimension regime via approximate message passing (AMP).&quot; <i> In submission to Ananals of Statistics </i>, 2018.'
 ---
+
+
 
 <!-- [Download paper here](http://academicpages.github.io/files/paper2.pdf) -->
 
