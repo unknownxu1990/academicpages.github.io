@@ -1,7 +1,7 @@
 ---
 title: "Phase retrieval based on spectral initialization and approximate message passing"
 collection: publications
-permalink: /publication/2018-03-01-phase-retrival-2
+permalink: /publication/2018-phase-retrival-2
 excerpt: 'This paper is in preparation.'
 date: 2018-03-01
 venue: 'arxiv'
