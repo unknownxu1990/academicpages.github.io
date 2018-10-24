@@ -12,6 +12,6 @@ I am a fourth year Ph.D candidate in Computer Science Department at Columbia Uni
 
 My research focuses on high dimensional statistics, machine learning algorithm. I am also interested in interactive learning/clustering and neural network.
 
-Feel free to reach me at jx2193@columbia.edu.
+Please feel free to reach me at jx2193@columbia.edu.
 
 
