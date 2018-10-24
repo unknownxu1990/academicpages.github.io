@@ -2,7 +2,7 @@
 title: "Risk estimation of leave-one-out cross validation (LO) in high dimension regime via approximate message passing (AMP)."
 collection: publications
 permalink: /publication/2018-LOOCV
-<!--excerpt: 'This paper is in submission to Ananals of Statistics.'-->
+excerpt: 'This paper is in submission to Ananals of Statistics.'
 date: 2018-11-01
 venue: 'In submission'
 paperurl: 
