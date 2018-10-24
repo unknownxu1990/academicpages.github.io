@@ -11,5 +11,5 @@ citation: 'Ji Xu, Daniel Hsu, Arian Maleki. &quot;Global analysis of Expectation
 ---
 'This paper is selected as Oral Presentation in NIPS 2016.'
 
-[Download paper here](https://arxiv.org/abs/1608.07630)
+[Download paper here](https://arxiv.org/pdf/1608.07630.pdf)
 
