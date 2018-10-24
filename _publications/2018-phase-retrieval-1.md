@@ -3,7 +3,7 @@ title: "Optimization-based AMP for Phase Retrieval: The Impact of Initialization
 collection: publications
 permalink: /publications/2018-phase-retrieval-1
 category: review
-excerpt:
+excerpt: ''
 date: 2018-01-01
 venue: 'IEEE Transactions on Information Theory'
 paperurl: 'https://arxiv.org/abs/1801.01170'
