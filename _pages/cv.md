@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.S. in Mathematics and minor in Economics, Peking University, Jul. 2013
+* B.S. in Mathematics and minor in Economics, Peking University, July 2013
 * M.A. in Statistics, Columbia University, Dec. 2014
 * Ph.D. in Computer Science, Columbia University, 2020 (expected)
 * Relevent courseworks:
@@ -19,7 +19,7 @@ Topics in interactive learning, Natural Language Processing, Advanced Machine Le
 
 Honors and Awards:
 ======
-* Inaugural Cheung-Kong Graduate School of Business (CKGSB) Fellowship, Jul. 2018
+* Inaugural Cheung-Kong Graduate School of Business (CKGSB) Fellowship, July 2018
 * Kathryn and Shelby Cullom Davis International Fellowship,  Jan. 2015
 * Silver Medalist in National Undergraduate Mathematical Contest,  Nov. 2011
 * Silver Medalist in Chinese Mathematical Olympiad Winter Camp,  Jan. 2009
