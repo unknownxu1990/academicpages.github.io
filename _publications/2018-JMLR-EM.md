@@ -11,4 +11,5 @@ citation_in_cv: 'Ji Xu, Daniel Hsu, Arian Maleki. &quot;Global analysis of Expec
 citation: 'Ji Xu, Daniel Hsu, Arian Maleki. &quot;Global analysis of Expectation Maximization for mixtures of two Gaussians: symmetric and asymmetric cases.&quot;  <i> In submission to Journal of Machine Learning Research (JMLR) </i>, 2018.'
 ---
 
+[Download paper here](https://arxiv.org/pdf/1608.07630.pdf)
 
