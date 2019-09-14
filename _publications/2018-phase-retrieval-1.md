@@ -2,7 +2,7 @@
 title: "Optimization-based AMP for Phase Retrieval: The Impact of Initialization and $\\ell_2$-regularization"
 collection: publications
 permalink: /publications/2018-phase-retrieval-1
-category: publish
+category: published
 excerpt: ''
 date: 2019-01-01
 venue: 'IEEE Transactions on Information Theory'
